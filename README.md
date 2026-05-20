@@ -1,8 +1,9 @@
 # Portals
 
-Little test of portals in Unity.
-Note: in the two worlds scene, you'll need to have Blender installed to view some of the models.
+Messing around in unity and making wierdly shaped portals. Credit to Sebastian Lagues portal coding adventure as a starting point
 
-[Watch video](https://www.youtube.com/watch?v=cWpFZbjtSQg)
+# Project Blog
 
-![Portals](https://raw.githubusercontent.com/SebLague/Images/master/Portals.png)
+## First Working Edition
+
+blah blah blah will update this later
